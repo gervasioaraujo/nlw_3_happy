@@ -9,8 +9,8 @@ Projeto Full Stack Javascript desenvolvido durante a Next Level Week 3 da Rocket
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Node.js
-React
-React Native
-Expo
-TypeScript
+- Node.js
+- React
+- React Native
+- Expo
+- TypeScript
